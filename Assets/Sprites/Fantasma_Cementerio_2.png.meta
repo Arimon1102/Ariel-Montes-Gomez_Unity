@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: 295839c0684a6cc42adc1643bb46fc2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1666489668223202698
+    second: Fantasma_Cementerio_2_0
+  - first:
+      213: 2925895983324663354
+    second: Fantasma_Cementerio_2_1
+  - first:
+      213: -7396554691146960199
+    second: Fantasma_Cementerio_2_2
+  - first:
+      213: 6584918905309273386
+    second: Fantasma_Cementerio_2_3
+  - first:
+      213: 7980588179378806566
+    second: Fantasma_Cementerio_2_4
+  - first:
+      213: 8368526832799828309
+    second: Fantasma_Cementerio_2_5
+  - first:
+      213: 1768863722055472741
+    second: Fantasma_Cementerio_2_6
+  - first:
+      213: -8350917261992161394
+    second: Fantasma_Cementerio_2_7
+  - first:
+      213: -8485252023840525389
+    second: Fantasma_Cementerio_2_8
+  - first:
+      213: -1218534927048080490
+    second: Fantasma_Cementerio_2_9
+  - first:
+      213: -6392067203335852798
+    second: Fantasma_Cementerio_2_10
+  - first:
+      213: 621006430269490940
+    second: Fantasma_Cementerio_2_11
+  - first:
+      213: 2199415202055905038
+    second: Fantasma_Cementerio_2_12
+  - first:
+      213: 7970885813840096488
+    second: Fantasma_Cementerio_2_13
+  - first:
+      213: -8217990544225733407
+    second: Fantasma_Cementerio_2_14
+  - first:
+      213: -3190402931788257758
+    second: Fantasma_Cementerio_2_15
+  - first:
+      213: 7323379080925036675
+    second: Fantasma_Cementerio_2_16
+  - first:
+      213: -5432805572338140541
+    second: Fantasma_Cementerio_2_17
+  - first:
+      213: 2669293590143889549
+    second: Fantasma_Cementerio_2_18
+  - first:
+      213: -4448911552621578817
+    second: Fantasma_Cementerio_2_19
+  - first:
+      213: -1854616056629256465
+    second: Fantasma_Cementerio_2_20
+  - first:
+      213: -8377036651217186101
+    second: Fantasma_Cementerio_2_21
+  - first:
+      213: -1399139041316925839
+    second: Fantasma_Cementerio_2_22
+  - first:
+      213: 7182906765856013880
+    second: Fantasma_Cementerio_2_23
+  - first:
+      213: -5913976157674955950
+    second: Fantasma_Cementerio_2_24
+  - first:
+      213: 8449482326266759416
+    second: Fantasma_Cementerio_2_25
+  - first:
+      213: -2956040749458501063
+    second: Fantasma_Cementerio_2_26
+  - first:
+      213: 1566142003354350803
+    second: Fantasma_Cementerio_2_27
+  - first:
+      213: 5695059050856446802
+    second: Fantasma_Cementerio_2_28
+  - first:
+      213: 1439737054299822862
+    second: Fantasma_Cementerio_2_29
+  - first:
+      213: 6181845866231942659
+    second: Fantasma_Cementerio_2_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a857d48168f802710800000000000000
+      internalID: 1666489668223202698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1598
+        width: 428
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e0fcf05eeda9820800000000000000
+      internalID: 2925895983324663354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_2
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1598
+        width: 407
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2bf6072b82a5990800000000000000
+      internalID: -7396554691146960199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_3
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1598
+        width: 325
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d96b12bd4526b50800000000000000
+      internalID: 6584918905309273386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_4
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1598
+        width: 356
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1e8a8aaeb0ce60800000000000000
+      internalID: 7980588179378806566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_5
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1598
+        width: 407
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559cb5ae0daf22470800000000000000
+      internalID: 8368526832799828309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_6
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 1598
+        width: 372
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5661131fe244c8810800000000000000
+      internalID: 1768863722055472741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_7
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 1595
+        width: 492
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f874acef49b1c80800000000000000
+      internalID: -8350917261992161394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 460
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b33259bd345e3a80800000000000000
+      internalID: -8485252023840525389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_9
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1148
+        width: 406
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69384ee90f4e61fe0800000000000000
+      internalID: -1218534927048080490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_10
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1151
+        width: 428
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dedb4ceb0da47a0800000000000000
+      internalID: -6392067203335852798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_11
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1148
+        width: 452
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6427fde024e9800800000000000000
+      internalID: 621006430269490940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_12
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1148
+        width: 502
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fd2282974e58e10800000000000000
+      internalID: 2199415202055905038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_13
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1148
+        width: 499
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca3278a664e9e60800000000000000
+      internalID: 7970885813840096488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_14
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1148
+        width: 487
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f7eb0425d3fd80800000000000000
+      internalID: -8217990544225733407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_15
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1148
+        width: 477
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266560ef6969b3d0800000000000000
+      internalID: -3190402931788257758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 516
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3804012297ed1a560800000000000000
+      internalID: 7323379080925036675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 698
+        width: 472
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ab50fbd1cca94b0800000000000000
+      internalID: -5432805572338140541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_18
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 698
+        width: 407
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f0c1b06c3b0520800000000000000
+      internalID: 2669293590143889549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_19
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 698
+        width: 387
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5fbd4a38a4242c0800000000000000
+      internalID: -4448911552621578817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_20
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 698
+        width: 374
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee90edc5841346e0800000000000000
+      internalID: -1854616056629256465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_21
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 698
+        width: 354
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc295c59c89cebb80800000000000000
+      internalID: -8377036651217186101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_22
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 698
+        width: 378
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e8ce27472459ce0800000000000000
+      internalID: -1399139041316925839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_23
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 698
+        width: 419
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef89995afcea360800000000000000
+      internalID: 7182906765856013880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b97a7a4065deda0800000000000000
+      internalID: -5913976157674955950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_25
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 248
+        width: 391
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f842119867924570800000000000000
+      internalID: 8449482326266759416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_26
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 248
+        width: 376
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93252f2a9980af6d0800000000000000
+      internalID: -2956040749458501063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 248
+        width: 416
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d431c1badd0cb510800000000000000
+      internalID: 1566142003354350803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_28
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 248
+        width: 505
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bfb25780ae80f40800000000000000
+      internalID: 5695059050856446802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Cementerio_2_29
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 248
+        width: 501
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b128b0939faf310800000000000000
+      internalID: 1439737054299822862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
